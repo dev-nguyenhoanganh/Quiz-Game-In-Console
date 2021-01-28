@@ -1,0 +1,56 @@
+<question>
+<content>Ai là người đặt tên nước ta là Vạn Xuân?</content>
+<answer>Hồ Quý Ly</answer>
+<answer>Lý Bôn</answer>
+<answer>Lý Công Uẩn</answer>
+<answer>Ngô Quyền</answer>
+<correct>2</correct>
+</question>
+<question>
+<content>Tên thật của nữ vương đầu tiên và cuối cùng của nước ta?</content>
+<answer>Lý Phật Thiên</answer>
+<answer>Trưng Trắc</answer>
+<answer>Lý Phật Kim</answer>
+<answer>Trưng Nhị</answer>
+<correct>3</correct>
+</question>
+<question>
+<content>Có bao nhiêu đời vua vào thời Lý?</content>
+<answer>7</answer>
+<answer>8</answer>
+<answer>9</answer>
+<answer>10</answer>
+<correct>3</correct>
+</question>
+<question>
+<content> Ai là tác giả của Quốc Âm Thi Tập?</content>
+<answer>Nguyễn Khuyến</answer>
+<answer>Nguyễn Trãi</answer>
+<answer>Quang Trung</answer>
+<answer>Lê Thái Tổ</answer>
+<correct>2</correct>
+</question>
+<question>
+<content>"Bản nguyệt thập bát nhật Liễu Thăng vị ngã quân sở công, kế trụy ư Chi Lăng chi dã " là 1 câu của bài cáo nào?</content>
+<answer>Quốc Âm Thi Tập</answer>
+<answer>Bình Ngô Đại Cáo</answer>
+<answer>Binh Thư Yếu Lược</answer>
+<answer>Vạn Kiếp tông bí truyền thư</answer>
+<correct>2</correct>
+</question>
+<question>
+<content>Đâu là 1 tên khác của Trần Quốc Tuấn?</content>
+<answer>Trần Quốc Toản</answer>
+<answer>Trần Khánh Dư</answer>
+<answer>Trần Nhật Duật</answer>
+<answer>Trần Hưng Đạo</answer>
+<correct>4</correct>
+</question>
+<question>
+<content>Ai là người đánh đuổi quân Thanh?</content>
+<answer>Nguyễn Nhạc</answer>
+<answer>Nguyễn Lữ</answer>
+<answer>Lý Thường Kiệt</answer>
+<answer>Nguyễn Huệ</answer>
+<correct>4</correct>
+</question>
